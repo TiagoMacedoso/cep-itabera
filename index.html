@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CEP ITABERÁ</title>
+
+    <link rel="stylesheet" href="style.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/PapaParse/5.3.0/papaparse.min.js"></script>
+
+</head>
+
+<body>
+    <section>
+        <h1>Consulte seu novo CEP em ITABERÁ</h1>
+    </section>
+
+    <section>
+        <label for="logradouro">Buscar Logradouro (Rua, Avenida, Travessa, etc):</label>
+        <div>
+            <input type="text" id="logradouro" list="logradouros" placeholder="Digite o logradouro">
+            <datalist id="logradouros"></datalist>
+            <button id="buscar">Buscar CEP</button>
+        </div>
+        <p id="resultado"></p>
+        <span id="cep_resultado"></span>
+    </section>
+
+    <section>
+        <a href="https://github.com/tiagomacedoso/"><img src="./assets/svg/github.svg"
+                alt="Ícone com link para o GitHub do criador da página"></a>
+        <a href="https://www.linkedin.com/in/tiagomacedoso/"><img src="./assets/svg/linkedin.svg"
+                alt="Ícone com link para o LinkedId do criador da página"></a>
+        <a href="https://github.com/TiagoMacedoso/cep-itabera/"><img src="./assets/svg/code.svg"
+                alt="Ícone com link para o repositório de códigos utilizados para criar a página"></a>
+    </section>
+
+    <script src="script.js"></script>
+</body>
+
+</html>
