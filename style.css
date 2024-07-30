@@ -44,7 +44,7 @@ section:nth-child(2) div{
     margin: 1.5em 0em;
 }
 
-input, button{
+select, button{
     background-color: rgba(6, 36, 0, 0.8);
     padding: 0.3em 0.5em;
     text-align: center;
@@ -54,11 +54,11 @@ input, button{
     font-size: medium;
 }
 
-input{
+select{
     width: 70%;
 }
 
-input:focus{
+select:focus{
     outline: none;
 }
 
@@ -104,11 +104,11 @@ section:nth-child(3) a img{
         gap: 1em;
     }
 
-    input, button{
+    select, button{
         font-size: x-large;
     }
 
-    input{
+    select{
         width: 60%;
     }
 

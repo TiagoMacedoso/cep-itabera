@@ -19,14 +19,15 @@
     <section>
         <label for="logradouro">Buscar Logradouro (Rua, Avenida, Travessa, etc):</label>
         <div>
-            <input type="text" id="logradouro" list="logradouros" placeholder="Digite o logradouro">
-            <datalist id="logradouros"></datalist>
+            <select id="logradouro">
+                <option value="">Selecione um logradouro</option>
+            </select>
             <button id="buscar">Buscar CEP</button>
         </div>
         <p id="resultado"></p>
         <span id="cep_resultado"></span>
     </section>
-
+    
     <section>
         <a href="https://github.com/tiagomacedoso/"><img src="./assets/svg/github.svg"
                 alt="Ícone com link para o GitHub do criador da página"></a>
