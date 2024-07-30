@@ -4,6 +4,8 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#000">
+
     <title>CEP ITABERÁ</title>
 
     <link rel="stylesheet" href="style.css">
@@ -13,19 +15,31 @@
 
 <body>
     <section>
+        
         <h1>Consulte seu novo CEP em ITABERÁ</h1>
+
     </section>
 
     <section>
+
+        <label for="bairro">Buscar Bairro:</label>
+        <div>
+            <select id="bairro">
+                <option value="">Selecione um bairro</option>
+            </select>
+        </div>
+
         <label for="logradouro">Buscar Logradouro (Rua, Avenida, Travessa, etc):</label>
         <div>
             <select id="logradouro">
-                <option value="">Selecione um logradouro</option>
+                <option value="">Selecione primeiramente o bairro</option>
             </select>
             <button id="buscar">Buscar CEP</button>
         </div>
+
         <p id="resultado"></p>
         <span id="cep_resultado"></span>
+
     </section>
     
     <section>

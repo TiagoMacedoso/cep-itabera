@@ -1,211 +1,217 @@
 Logradouro,Bairro,CEP,Localidade,UF
+Área Rural,Área Rural de Engenheiro Maia,18455-899,Itaberá,SP
+Área Rural,Área Rural de Itaberá,18449-899,Itaberá,SP
+Área Rural,Área Rural de Turiba do Sul,18450-899,Itaberá,SP
+Rua Dito Cachanga,Barra Funda,18440-050,Itaberá,SP
+Rua 1,Capim,18446-350,Itaberá,SP
+Rua 2,Capim,18446-352,Itaberá,SP
+Rua 3,Capim,18446-354,Itaberá,SP
+Rua 4,Capim,18446-356,Itaberá,SP
 Avenida João Simon Solla,Centro,18440-001,Itaberá,SP
-Rua Dom Pedro I,Centro,18440-003,Itaberá,SP
-Rua Luis Toledo,Centro,18440-005,Itaberá,SP
-Rua Francisco Antônio da Silva,Centro,18440-007,Itaberá,SP
-Rua Josephina Silva de Mello,Centro,18440-009,Itaberá,SP
-Rua Coronel Acácio Piedade,Centro,18440-010,Itaberá,SP
-Rua Adolfo Barra,Centro,18440-011,Itaberá,SP
-Rua Josias Cardoso,Centro,18440-013,Itaberá,SP
-Rua Coronel José Pedro de Lima,Centro,18440-015,Itaberá,SP
-Rua Nove de Julho,Centro,18440-017,Itaberá,SP
-Rua Lavrinhas,Centro,18440-019,Itaberá,SP
-Rua Ângelo Valcazara,Centro,18440-021,Itaberá,SP
-Rua 7 de Setembro,Centro,18440-023,Itaberá,SP
-Rua Coronel Venâncio,Centro,18440-025,Itaberá,SP
-Rua Antônio Rodrigues de Freitas,Centro,18440-027,Itaberá,SP
-Rua XV de Novembro,Centro,18440-029,Itaberá,SP
-Rua Coronel Amantino,Centro,18440-031,Itaberá,SP
 Avenida Prefeito Carlos Rodrigues dos Santos,Centro,18440-033,Itaberá,SP
 Avenida Servilhano Silva,Centro,18440-035,Itaberá,SP
 Rua 13 de Maio,Centro,18440-037,Itaberá,SP
-Rua Doutor Antônio Prado,Centro,18440-039,Itaberá,SP
-Rua Tiradentes,Centro,18440-041,Itaberá,SP
-Rua São Pedro,Centro,18440-043,Itaberá,SP
+Rua 7 de Setembro,Centro,18440-023,Itaberá,SP
+Rua Adolfo Barra,Centro,18440-011,Itaberá,SP
+Rua Ângelo Valcazara,Centro,18440-021,Itaberá,SP
 Rua Antônio Joaquim Diniz,Centro,18440-045,Itaberá,SP
-Rua Dito Cachanga,Barra Funda,18440-050,Itaberá,SP
-Rua Domingos Jorge Velho,Vila Bandeirantes,18440-060,Itaberá,SP
-Rua Conde Sarzedas,Vila Bandeirantes,18440-062,Itaberá,SP
-Rua Bras Cubas,Vila Bandeirantes,18440-064,Itaberá,SP
-Rua Afonso Sardinha,Vila Bandeirantes,18440-066,Itaberá,SP
-Rua Alexandre Gusmão,Vila Bandeirantes,18440-068,Itaberá,SP
-Rua João Ramalho,Vila Bandeirantes,18440-070,Itaberá,SP
-Rua Duarte Coelho,Vila Bandeirantes,18440-072,Itaberá,SP
-Rua Fernão Dias Paes Lemes,Vila Bandeirantes,18440-074,Itaberá,SP
-Rua Raposo Tavares,Vila Bandeirantes,18440-076,Itaberá,SP
-Rua Anhanguera,Vila Bandeirantes,18440-078,Itaberá,SP
-Rua Borba Gato,Vila Bandeirantes,18440-080,Itaberá,SP
-Rua Borba Gato,Jardim São Luiz,18440-090,Itaberá,SP
-Rua Domingos Jorge Velho,Jardim São Luiz,18440-092,Itaberá,SP
-Rua Oito de Abril,Jardim São Luiz,18440-094,Itaberá,SP
-Rua Conde Sarzedas,Jardim São Luiz,18440-096,Itaberá,SP
-Rua 19 de Março,Jardim São Luiz,18440-098,Itaberá,SP
-Rua Bras Cubas,Jardim São Luiz,18440-100,Itaberá,SP
-Rua Afonso Sardinha,Jardim São Luiz,18440-102,Itaberá,SP
-Avenida Servilhano Silva,Jardim São Luiz,18440-104,Itaberá,SP
-Avenida Servilhano Silva,Jardim Rossi,18440-110,Itaberá,SP
-Rua Juvenal Furquim de Almeida,Jardim Rossi,18440-112,Itaberá,SP
-Rua Ettore Rossi,Jardim Rossi,18440-114,Itaberá,SP
-Rua Francelino Leite,Jardim Rossi,18440-116,Itaberá,SP
-Rua Marina Geralda Gonzales,Jardim Rossi,18440-118,Itaberá,SP
-Avenida Iacopino Rossi,Jardim Rossi,18440-120,Itaberá,SP
-Rua Luiz Batista de Paula,Jardim Rossi,18440-122,Itaberá,SP
-Rua Florêncio de Souza,Jardim Rossi,18440-124,Itaberá,SP
-Avenida Silvério Morato de Almeida,Vila Esperança,18440-150,Itaberá,SP
-Rua Padre Bento Dias Pacheco,Vila Esperança,18440-152,Itaberá,SP
-Rua Cruzeiro,Vila Esperança,18440-154,Itaberá,SP
-Rua Olavo Bilac,Vila Esperança,18440-156,Itaberá,SP
-Travessa Bento Manoel do Prado,Vila Esperança,18440-162,Itaberá,SP
-Rua Padre Miguel Piller,Vila Esperança,18440-164,Itaberá,SP
-Rua Waldemar Felipe,Vila Esperança,18440-166,Itaberá,SP
-Rua Agenor Gomes,Vila Esperança,18440-168,Itaberá,SP
-Rua Padre Miguel Piller,Vila Cruzeiro,18440-170,Itaberá,SP
-Rua Cruzeiro,Vila Cruzeiro,18440-172,Itaberá,SP
-Rua Santo Antônio,Vila Cruzeiro,18440-174,Itaberá,SP
-Rua Professora Tereza Pignagrande Oliveira,Vila Cruzeiro,18440-176,Itaberá,SP
-Rua Gabriel Gomes,Vila Cruzeiro,18440-178,Itaberá,SP
-Rua São Joaquim,Vila Cruzeiro,18440-180,Itaberá,SP
-Rua José Gonçalves de Macedo,Vila Cruzeiro,18440-182,Itaberá,SP
-Rua Nhá Quima,Vila Cruzeiro,18440-184,Itaberá,SP
-Rua Coronel José Pedro de Lima,Vila Cruzeiro,18440-186,Itaberá,SP
-Rua Antônia Camargo Duarte,Vila Cruzeiro,18440-188,Itaberá,SP
-Rua Coronel José Pedro de Lima,Jardim Carolina,18440-190,Itaberá,SP
-Rua Antônio José Esteves,Jardim Carolina,18440-192,Itaberá,SP
-Rua Joaquim Caetano da Rosa,Jardim Carolina,18440-194,Itaberá,SP
-Rua José de Fázio Gomes,Jardim Carolina,18440-196,Itaberá,SP
-Rua Erotides Gonçalves de Almeida,Jardim Carolina,18440-198,Itaberá,SP
-Rua Moyses Olympio de Freitas,Jardim Carolina,18440-200,Itaberá,SP
-Rua José Gonçalves de Macedo,Jardim Carolina,18440-202,Itaberá,SP
-Rua Nhá Quima,Jardim Carolina,18440-204,Itaberá,SP
-Rua Ari Cardoso,Jardim Carolina,18440-206,Itaberá,SP
-Rua José Nicolau Tortelli,Jardim Carolina,18440-208,Itaberá,SP
-Rua Chico Menino,Vila Santa Maria,18440-210,Itaberá,SP
-Avenida João Simon Solla,Jardim Santa Ines IV,18443-000,Itaberá,SP
-Rua José Alves,Jardim Santa Ines IV,18443-002,Itaberá,SP
-Rua Francisco de Oliveira Almeida,Jardim Santa Ines IV,18443-004,Itaberá,SP
-Rua Osório Mafaldo Couto,Jardim Santa Ines IV,18443-006,Itaberá,SP
-Avenida João Simon Solla,Jardim Santa Ines III,18443-010,Itaberá,SP
-Rua Antônio Rodrigues de Freitas,Jardim Santa Ines III,18443-012,Itaberá,SP
-Rua Liberalino Alves Freire,Jardim Santa Ines III,18443-014,Itaberá,SP
-Rua Antônio da Veiga e Souza,Jardim Santa Ines III,18443-016,Itaberá,SP
-Rua João Batista da Cruz,Jardim Santa Ines III,18443-018,Itaberá,SP
-Rua Salvador Rodrigues de Almeida,Jardim Santa Ines III,18443-020,Itaberá,SP
-Avenida Átila Walter de Oliveira,Jardim Santa Ines III,18443-024,Itaberá,SP
-Rua Alceu Nogueira,Jardim Santa Ines III,18443-025,Itaberá,SP
-Avenida Átila Walter de Oliveira,Jardim Santa Ines II,18443-030,Itaberá,SP
-Rua Padre Manuel Joaquim Rodrigues,Jardim Santa Ines II,18443-032,Itaberá,SP
-Rua Doutor Eliseu Veloso Ramos,Jardim Santa Ines II,18443-034,Itaberá,SP
-Rua Lucrécia de Lima Amaral,Jardim Santa Ines II,18443-036,Itaberá,SP
-Rua Aparício Ferraz de Camargo,Jardim Santa Ines II,18443-038,Itaberá,SP
-Avenida João Simon Solla,Jardim Santa Ines II,18443-040,Itaberá,SP
-Avenida João Simon Solla,Jardim Santa Ines I,18443-050,Itaberá,SP
-Rua Jango de Lima,Jardim Santa Ines I,18443-052,Itaberá,SP
-Rua Prefeito Alfredo de Oliveira,Jardim Santa Ines I,18443-054,Itaberá,SP
-Rua Jácomo Falsarella,Jardim Santa Ines I,18443-056,Itaberá,SP
-Rua Doutor Barbosa,Jardim Santa Ines I,18443-058,Itaberá,SP
-Rua Francisco Proença,Jardim Santa Ines I,18443-060,Itaberá,SP
-Rua João Português,Jardim Santa Ines I,18443-062,Itaberá,SP
-Rua Tonico Saturnino,Jardim Santa Ines I,18443-064,Itaberá,SP
-Rua Jango Ferraz,Jardim Santa Ines I,18443-066,Itaberá,SP
-Rua Maurício Pereira de Almeida,Jardim Santa Ines I,18443-068,Itaberá,SP
-Rua Joaquim Flaviano de Lima,Jardim Santa Ines I,18443-070,Itaberá,SP
-Rua José Cilico Gonçalves,Jardim Santa Ines V,18443-080,Itaberá,SP
-Rua Antônio Cirino de Mello,Jardim Santa Ines V,18443-082,Itaberá,SP
-Rua das Margaridas,Jardim Santa Ines V,18443-084,Itaberá,SP
-Rua Caetano Ferreira Neto,Jardim Santa Ines V,18443-086,Itaberá,SP
-Rua Napoleão Gomes,Jardim Santa Ines V,18443-088,Itaberá,SP
-Rua Eleutério Rodrigues de Lima,Jardim Santa Ines V,18443-090,Itaberá,SP
-Rua Eleutério Rodrigues de Lima,Jardim Santa Ines VI,18443-100,Itaberá,SP
-Rua Caetano Ferreira Neto,Jardim Santa Ines VI,18443-102,Itaberá,SP
-Rua Napoleão Gomes,Jardim Santa Ines VI,18443-104,Itaberá,SP
-Avenida João Simon Solla,Jardim Santa Ines VI,18443-106,Itaberá,SP
-Rua Hortênsia,Jardim Santa Ines VI,18443-110,Itaberá,SP
-Rua Ipês,Jardim Santa Ines VI,18443-112,Itaberá,SP
-Rua I,Jardim Santa Ines VI,18443-114,Itaberá,SP
-Rodovia Pedro Mariano de Oliveira,Jardim Santa Ines VI,18443-119,Itaberá,SP
-Rua Joana Francisca Simon Sola,Residencial Canadá,18443-120,Itaberá,SP
-Rua das Margaridas,Residencial Canadá,18443-121,Itaberá,SP
-Rua José Cilico Gonçalves,Residencial Canadá,18443-124,Itaberá,SP
-Rua São Judas Tadeu,Residencial Canadá,18443-126,Itaberá,SP
-Rua Paulinho Lobo de Freitas,Residencial Canadá,18443-128,Itaberá,SP
-Rua Anna da Veiga e Souza Gomes,Residencial Canadá,18443-130,Itaberá,SP
-Rua José Barbosa Tristão,Residencial Canadá,18443-132,Itaberá,SP
-Rua João Batista Cerdeira,Residencial Canadá,18443-134,Itaberá,SP
-Rua Lázaro dos Santos,Residencial Canadá,18443-136,Itaberá,SP
-Rua Roque Lima,Chácara Santa Elisa,18443-140,Itaberá,SP
+Rua Antônio Rodrigues de Freitas,Centro,18440-027,Itaberá,SP
+Rua Coronel Acácio Piedade,Centro,18440-010,Itaberá,SP
+Rua Coronel Amantino,Centro,18440-031,Itaberá,SP
+Rua Coronel José Pedro de Lima,Centro,18440-015,Itaberá,SP
+Rua Coronel Venâncio,Centro,18440-025,Itaberá,SP
+Rua Dom Pedro I,Centro,18440-003,Itaberá,SP
+Rua Doutor Antônio Prado,Centro,18440-039,Itaberá,SP
+Rua Francisco Antônio da Silva,Centro,18440-007,Itaberá,SP
+Rua Josephina Silva de Mello,Centro,18440-009,Itaberá,SP
+Rua Josias Cardoso,Centro,18440-013,Itaberá,SP
+Rua Lavrinhas,Centro,18440-019,Itaberá,SP
+Rua Luis Toledo,Centro,18440-005,Itaberá,SP
+Rua Nove de Julho,Centro,18440-017,Itaberá,SP
+Rua São Pedro,Centro,18440-043,Itaberá,SP
+Rua Tiradentes,Centro,18440-041,Itaberá,SP
+Rua XV de Novembro,Centro,18440-029,Itaberá,SP
+Avenida Engenheiro Maia,Centro (Engenheiro Maia),18455-002,Itaberá,SP
+Rua Antônio Castilho Mural,Centro (Engenheiro Maia),18455-008,Itaberá,SP
+Rua Antonio Gera,Centro (Engenheiro Maia),18455-010,Itaberá,SP
+Rua dos Ferreiras,Centro (Engenheiro Maia),18455-004,Itaberá,SP
+Rua João Batista Siqueira Filho,Centro (Engenheiro Maia),18455-012,Itaberá,SP
+Rua João Maria Ferraz,Centro (Engenheiro Maia),18455-000,Itaberá,SP
+Rua Jorge Rodrigues,Centro (Engenheiro Maia),18455-013,Itaberá,SP
+Rua Leôncio Pereira Dos Santos,Centro (Engenheiro Maia),18455-014,Itaberá,SP
+Rua Zeferino Ferreira,Centro (Engenheiro Maia),18455-016,Itaberá,SP
+Rua Amaro Freitas de Oliveira,Centro (Turiba do Sul),18450-014,Itaberá,SP
+Rua Antonio Augusto de Macedo,Centro (Turiba do Sul),18450-026,Itaberá,SP
+Rua Azaleia,Centro (Turiba do Sul),18450-002,Itaberá,SP
+Rua Bras da Silva Maia,Centro (Turiba do Sul),18450-006,Itaberá,SP
+Rua Francisca Saturnina de Oliveira,Centro (Turiba do Sul),18450-001,Itaberá,SP
+Rua Francisco Chaves Louro,Centro (Turiba do Sul),18450-028,Itaberá,SP
+Rua Hélio Gomes de Oliveira,Centro (Turiba do Sul),18450-034,Itaberá,SP
+Rua João Batista Gonçalves,Centro (Turiba do Sul),18450-018,Itaberá,SP
+Rua João Batista Lima,Centro (Turiba do Sul),18450-036,Itaberá,SP
+Rua João Evergisto de Almeida,Centro (Turiba do Sul),18450-020,Itaberá,SP
+Rua Joaquim Gomes de Oliveira Bueno,Centro (Turiba do Sul),18450-012,Itaberá,SP
+Rua José Procópio de Oliveira,Centro (Turiba do Sul),18450-016,Itaberá,SP
+Rua Maria Antonieta de Oliveira,Centro (Turiba do Sul),18450-010,Itaberá,SP
+Rua Maximiano José Da Silva,Centro (Turiba do Sul),18450-032,Itaberá,SP
+Rua Paulino Rodrigues de Oliveira,Centro (Turiba do Sul),18450-030,Itaberá,SP
+Rua Pedro dos Santos Lisboa,Centro (Turiba do Sul),18450-022,Itaberá,SP
+Viela Camélia,Centro (Turiba do Sul),18450-004,Itaberá,SP
+Viela Hortênsia,Centro (Turiba do Sul),18450-024,Itaberá,SP
+Viela Lírio,Centro (Turiba do Sul),18450-008,Itaberá,SP
+Rodovia Pedro Mariano de Oliveira,Chácara Santa Elisa,18443-152,Itaberá,SP
+Rua 1,Chácara Santa Elisa,18443-148,Itaberá,SP
 Rua 2,Chácara Santa Elisa,18443-142,Itaberá,SP
 Rua 5,Chácara Santa Elisa,18443-144,Itaberá,SP
 Rua 6,Chácara Santa Elisa,18443-146,Itaberá,SP
-Rua 1,Chácara Santa Elisa,18443-148,Itaberá,SP
 Rua 7,Chácara Santa Elisa,18443-150,Itaberá,SP
-Rodovia Pedro Mariano de Oliveira,Chácara Santa Elisa,18443-152,Itaberá,SP
-Rua Francisco Alves Negrão,Jardim São Pedro,18446-000,Itaberá,SP
-Rua Taquarituba,Jardim São Pedro,18446-002,Itaberá,SP
-Rua Itaí,Jardim São Pedro,18446-004,Itaberá,SP
-Rua São João,Jardim São Pedro,18446-006,Itaberá,SP
-Rua Vinte e Cinco de Abril,Jardim São Pedro,18446-012,Itaberá,SP
-Rua Américo Brasiliense,Jardim São Pedro,18446-014,Itaberá,SP
-Rua São José,Jardim São Pedro,18446-015,Itaberá,SP
-Rua Itaporanga,Jardim São Pedro,18446-016,Itaberá,SP
-Avenida João Simon Solla,Jardim São Pedro,18446-017,Itaberá,SP
-Rua Riversul,Jardim São Pedro,18446-018,Itaberá,SP
-Rua São José,Jardim Espanha I,18446-020,Itaberá,SP
-Avenida Prefeito João Simon Martinez,Jardim Espanha I,18446-022,Itaberá,SP
-Rua XV de Novembro,Jardim Espanha I,18446-024,Itaberá,SP
-Rua Coronel Venâncio,Jardim Espanha I,18446-026,Itaberá,SP
-Rua 7 de Setembro,Jardim Espanha I,18446-028,Itaberá,SP
-Rua Ângelo Valcazara,Jardim Espanha I,18446-030,Itaberá,SP
-Rua José Pereira de Freitas,Jardim Espanha I,18446-032,Itaberá,SP
-Avenida João Simon Solla,Jardim Espanha I,18446-034,Itaberá,SP
-Rua Vinte e Cinco de Abril,Jardim Espanha I,18446-036,Itaberá,SP
-Rua Pedro Mariano de Oliveira,Jardim Espanha I,18446-038,Itaberá,SP
-Rua Amaro André da Silva,Jardim Espanha I,18446-040,Itaberá,SP
-Rua Isidro de Almeida,Jardim Espanha I,18446-042,Itaberá,SP
-Rua Capitão Cornélio Domingues de Oliveira,Jardim Espanha I,18446-044,Itaberá,SP
-Rua Flávio Rodrigues Simões,Jardim Espanha I,18446-046,Itaberá,SP
-Rua Riversul,Jardim Espanha I,18446-048,Itaberá,SP
-Travessa Gilberto Francisco Feiteira,Jardim Espanha I,18446-050,Itaberá,SP
-Rua Rachid José Chuery,Jardim Espanha I,18446-052,Itaberá,SP
-Rua São João,Jardim Espanha I,18446-054,Itaberá,SP
-Rua Itaí,Jardim Espanha I,18446-056,Itaberá,SP
-Rua Taquarituba,Jardim Espanha I,18446-058,Itaberá,SP
-Rua Francisco Alves Negrão,Jardim Espanha I,18446-060,Itaberá,SP
-Rua São José,Jardim Espanha II,18446-070,Itaberá,SP
-Rua Gibraltar,Jardim Espanha II,18446-072,Itaberá,SP
-Rua Sevilha,Jardim Espanha II,18446-074,Itaberá,SP
-Rua Chirivel,Jardim Espanha II,18446-076,Itaberá,SP
-Rua Valência,Jardim Espanha II,18446-078,Itaberá,SP
-Rua Granada,Jardim Espanha II,18446-080,Itaberá,SP
-Rua Asturias,Jardim Espanha II,18446-082,Itaberá,SP
-Rua Galicia,Jardim Espanha II,18446-084,Itaberá,SP
-Rua Andorra,Jardim Espanha II,18446-086,Itaberá,SP
-Rua Madrid,Jardim Espanha II,18446-088,Itaberá,SP
-Alameda Almeria,Jardim Espanha II,18446-090,Itaberá,SP
-Alameda Almeria,Jardim Espanha III,18446-100,Itaberá,SP
-Rua Leon,Jardim Espanha III,18446-102,Itaberá,SP
-Rua Alicante,Jardim Espanha III,18446-104,Itaberá,SP
-Rua Málaga,Jardim Espanha III,18446-106,Itaberá,SP
-Rua Carmona,Jardim Espanha III,18446-108,Itaberá,SP
-Rua Navarra,Jardim Espanha III,18446-110,Itaberá,SP
-Rua Ceuta,Jardim Espanha III,18446-112,Itaberá,SP
-Rua Galicia,Jardim Espanha III,18446-114,Itaberá,SP
-Rua Córdoba,Jardim Espanha III,18446-116,Itaberá,SP
-Rua Bilbao,Jardim Espanha III,18446-118,Itaberá,SP
-Rua Andaluzia,Jardim Espanha III,18446-120,Itaberá,SP
-Rua José Pereira de Freitas,Jardim Espanha III,18446-122,Itaberá,SP
-Rua 2,Guanxuma,18446-300,Itaberá,SP
+Rua Roque Lima,Chácara Santa Elisa,18443-140,Itaberá,SP
 Rua 1,Guanxuma,18446-302,Itaberá,SP
+Rua 2,Guanxuma,18446-300,Itaberá,SP
 Rua 3,Guanxuma,18446-304,Itaberá,SP
 Rua 4,Guanxuma,18446-306,Itaberá,SP
+Rua Antônio José Esteves,Jardim Carolina,18440-192,Itaberá,SP
+Rua Ari Cardoso,Jardim Carolina,18440-206,Itaberá,SP
+Rua Coronel José Pedro de Lima,Jardim Carolina,18440-190,Itaberá,SP
+Rua Erotides Gonçalves de Almeida,Jardim Carolina,18440-198,Itaberá,SP
+Rua Joaquim Caetano da Rosa,Jardim Carolina,18440-194,Itaberá,SP
+Rua José de Fázio Gomes,Jardim Carolina,18440-196,Itaberá,SP
+Rua José Gonçalves de Macedo,Jardim Carolina,18440-202,Itaberá,SP
+Rua José Nicolau Tortelli,Jardim Carolina,18440-208,Itaberá,SP
+Rua Moyses Olympio de Freitas,Jardim Carolina,18440-200,Itaberá,SP
+Rua Nhá Quima,Jardim Carolina,18440-204,Itaberá,SP
+Avenida João Simon Solla,Jardim Espanha I,18446-034,Itaberá,SP
+Avenida Prefeito João Simon Martinez,Jardim Espanha I,18446-022,Itaberá,SP
+Rua 7 de Setembro,Jardim Espanha I,18446-028,Itaberá,SP
+Rua Amaro André da Silva,Jardim Espanha I,18446-040,Itaberá,SP
+Rua Ângelo Valcazara,Jardim Espanha I,18446-030,Itaberá,SP
+Rua Capitão Cornélio Domingues de Oliveira,Jardim Espanha I,18446-044,Itaberá,SP
+Rua Coronel Venâncio,Jardim Espanha I,18446-026,Itaberá,SP
+Rua Flávio Rodrigues Simões,Jardim Espanha I,18446-046,Itaberá,SP
+Rua Francisco Alves Negrão,Jardim Espanha I,18446-060,Itaberá,SP
+Rua Isidro de Almeida,Jardim Espanha I,18446-042,Itaberá,SP
+Rua Itaí,Jardim Espanha I,18446-056,Itaberá,SP
+Rua José Pereira de Freitas,Jardim Espanha I,18446-032,Itaberá,SP
+Rua Pedro Mariano de Oliveira,Jardim Espanha I,18446-038,Itaberá,SP
+Rua Rachid José Chuery,Jardim Espanha I,18446-052,Itaberá,SP
+Rua Riversul,Jardim Espanha I,18446-048,Itaberá,SP
+Rua São João,Jardim Espanha I,18446-054,Itaberá,SP
+Rua São José,Jardim Espanha I,18446-020,Itaberá,SP
+Rua Taquarituba,Jardim Espanha I,18446-058,Itaberá,SP
+Rua Vinte e Cinco de Abril,Jardim Espanha I,18446-036,Itaberá,SP
+Rua XV de Novembro,Jardim Espanha I,18446-024,Itaberá,SP
+Travessa Gilberto Francisco Feiteira,Jardim Espanha I,18446-050,Itaberá,SP
+Alameda Almeria,Jardim Espanha II,18446-090,Itaberá,SP
+Rua Andorra,Jardim Espanha II,18446-086,Itaberá,SP
+Rua Asturias,Jardim Espanha II,18446-082,Itaberá,SP
+Rua Chirivel,Jardim Espanha II,18446-076,Itaberá,SP
+Rua Galicia,Jardim Espanha II,18446-084,Itaberá,SP
+Rua Gibraltar,Jardim Espanha II,18446-072,Itaberá,SP
+Rua Granada,Jardim Espanha II,18446-080,Itaberá,SP
+Rua Madrid,Jardim Espanha II,18446-088,Itaberá,SP
+Rua São José,Jardim Espanha II,18446-070,Itaberá,SP
+Rua Sevilha,Jardim Espanha II,18446-074,Itaberá,SP
+Rua Valência,Jardim Espanha II,18446-078,Itaberá,SP
+Alameda Almeria,Jardim Espanha III,18446-100,Itaberá,SP
+Rua Alicante,Jardim Espanha III,18446-104,Itaberá,SP
+Rua Andaluzia,Jardim Espanha III,18446-120,Itaberá,SP
+Rua Bilbao,Jardim Espanha III,18446-118,Itaberá,SP
+Rua Carmona,Jardim Espanha III,18446-108,Itaberá,SP
+Rua Ceuta,Jardim Espanha III,18446-112,Itaberá,SP
+Rua Córdoba,Jardim Espanha III,18446-116,Itaberá,SP
+Rua Galicia,Jardim Espanha III,18446-114,Itaberá,SP
+Rua José Pereira de Freitas,Jardim Espanha III,18446-122,Itaberá,SP
+Rua Leon,Jardim Espanha III,18446-102,Itaberá,SP
+Rua Málaga,Jardim Espanha III,18446-106,Itaberá,SP
+Rua Navarra,Jardim Espanha III,18446-110,Itaberá,SP
+Rua 13 de Maio,Jardim Lúcia,18448-000,Itaberá,SP
+Rua Antônio Joaquim Diniz,Jardim Lúcia,18448-006,Itaberá,SP
+Rua Francisco Antônio da Silva,Jardim Lúcia,18448-010,Itaberá,SP
+Rua Josias Cardoso,Jardim Lúcia,18448-008,Itaberá,SP
+Rua São Pedro,Jardim Lúcia,18448-004,Itaberá,SP
+Rua Tiradentes,Jardim Lúcia,18448-002,Itaberá,SP
+Avenida Iacopino Rossi,Jardim Rossi,18440-120,Itaberá,SP
+Avenida Servilhano Silva,Jardim Rossi,18440-110,Itaberá,SP
+Rua Ettore Rossi,Jardim Rossi,18440-114,Itaberá,SP
+Rua Florêncio de Souza,Jardim Rossi,18440-124,Itaberá,SP
+Rua Francelino Leite,Jardim Rossi,18440-116,Itaberá,SP
+Rua Juvenal Furquim de Almeida,Jardim Rossi,18440-112,Itaberá,SP
+Rua Luiz Batista de Paula,Jardim Rossi,18440-122,Itaberá,SP
+Rua Marina Geralda Gonzales,Jardim Rossi,18440-118,Itaberá,SP
+Avenida João Simon Solla,Jardim Santa Ines I,18443-050,Itaberá,SP
+Rua Doutor Barbosa,Jardim Santa Ines I,18443-058,Itaberá,SP
+Rua Francisco Proença,Jardim Santa Ines I,18443-060,Itaberá,SP
+Rua Jácomo Falsarella,Jardim Santa Ines I,18443-056,Itaberá,SP
+Rua Jango de Lima,Jardim Santa Ines I,18443-052,Itaberá,SP
+Rua Jango Ferraz,Jardim Santa Ines I,18443-066,Itaberá,SP
+Rua João Português,Jardim Santa Ines I,18443-062,Itaberá,SP
+Rua Joaquim Flaviano de Lima,Jardim Santa Ines I,18443-070,Itaberá,SP
+Rua Maurício Pereira de Almeida,Jardim Santa Ines I,18443-068,Itaberá,SP
+Rua Prefeito Alfredo de Oliveira,Jardim Santa Ines I,18443-054,Itaberá,SP
+Rua Tonico Saturnino,Jardim Santa Ines I,18443-064,Itaberá,SP
+Avenida Átila Walter de Oliveira,Jardim Santa Ines II,18443-030,Itaberá,SP
+Avenida João Simon Solla,Jardim Santa Ines II,18443-040,Itaberá,SP
+Rua Aparício Ferraz de Camargo,Jardim Santa Ines II,18443-038,Itaberá,SP
+Rua Doutor Eliseu Veloso Ramos,Jardim Santa Ines II,18443-034,Itaberá,SP
+Rua Lucrécia de Lima Amaral,Jardim Santa Ines II,18443-036,Itaberá,SP
+Rua Padre Manuel Joaquim Rodrigues,Jardim Santa Ines II,18443-032,Itaberá,SP
+Avenida Átila Walter de Oliveira,Jardim Santa Ines III,18443-024,Itaberá,SP
+Avenida João Simon Solla,Jardim Santa Ines III,18443-010,Itaberá,SP
+Rua Alceu Nogueira,Jardim Santa Ines III,18443-025,Itaberá,SP
+Rua Antônio da Veiga e Souza,Jardim Santa Ines III,18443-016,Itaberá,SP
+Rua Antônio Rodrigues de Freitas,Jardim Santa Ines III,18443-012,Itaberá,SP
+Rua João Batista da Cruz,Jardim Santa Ines III,18443-018,Itaberá,SP
+Rua Liberalino Alves Freire,Jardim Santa Ines III,18443-014,Itaberá,SP
+Rua Salvador Rodrigues de Almeida,Jardim Santa Ines III,18443-020,Itaberá,SP
+Avenida João Simon Solla,Jardim Santa Ines IV,18443-000,Itaberá,SP
+Rua Francisco de Oliveira Almeida,Jardim Santa Ines IV,18443-004,Itaberá,SP
+Rua José Alves,Jardim Santa Ines IV,18443-002,Itaberá,SP
+Rua Osório Mafaldo Couto,Jardim Santa Ines IV,18443-006,Itaberá,SP
+Rua Antônio Cirino de Mello,Jardim Santa Ines V,18443-082,Itaberá,SP
+Rua Caetano Ferreira Neto,Jardim Santa Ines V,18443-086,Itaberá,SP
+Rua das Margaridas,Jardim Santa Ines V,18443-084,Itaberá,SP
+Rua Eleutério Rodrigues de Lima,Jardim Santa Ines V,18443-090,Itaberá,SP
+Rua José Cilico Gonçalves,Jardim Santa Ines V,18443-080,Itaberá,SP
+Rua Napoleão Gomes,Jardim Santa Ines V,18443-088,Itaberá,SP
+Avenida João Simon Solla,Jardim Santa Ines VI,18443-106,Itaberá,SP
+Rodovia Pedro Mariano de Oliveira,Jardim Santa Ines VI,18443-119,Itaberá,SP
+Rua Caetano Ferreira Neto,Jardim Santa Ines VI,18443-102,Itaberá,SP
+Rua Eleutério Rodrigues de Lima,Jardim Santa Ines VI,18443-100,Itaberá,SP
+Rua Hortênsia,Jardim Santa Ines VI,18443-110,Itaberá,SP
+Rua I,Jardim Santa Ines VI,18443-114,Itaberá,SP
+Rua Ipês,Jardim Santa Ines VI,18443-112,Itaberá,SP
+Rua Napoleão Gomes,Jardim Santa Ines VI,18443-104,Itaberá,SP
+Avenida Servilhano Silva,Jardim São Luiz,18440-104,Itaberá,SP
+Rua 19 de Março,Jardim São Luiz,18440-098,Itaberá,SP
+Rua Afonso Sardinha,Jardim São Luiz,18440-102,Itaberá,SP
+Rua Borba Gato,Jardim São Luiz,18440-090,Itaberá,SP
+Rua Bras Cubas,Jardim São Luiz,18440-100,Itaberá,SP
+Rua Conde Sarzedas,Jardim São Luiz,18440-096,Itaberá,SP
+Rua Domingos Jorge Velho,Jardim São Luiz,18440-092,Itaberá,SP
+Rua Oito de Abril,Jardim São Luiz,18440-094,Itaberá,SP
+Avenida João Simon Solla,Jardim São Pedro,18446-017,Itaberá,SP
+Rua Américo Brasiliense,Jardim São Pedro,18446-014,Itaberá,SP
+Rua Francisco Alves Negrão,Jardim São Pedro,18446-000,Itaberá,SP
+Rua Itaí,Jardim São Pedro,18446-004,Itaberá,SP
+Rua Itaporanga,Jardim São Pedro,18446-016,Itaberá,SP
+Rua Riversul,Jardim São Pedro,18446-018,Itaberá,SP
+Rua São João,Jardim São Pedro,18446-006,Itaberá,SP
+Rua São José,Jardim São Pedro,18446-015,Itaberá,SP
+Rua Taquarituba,Jardim São Pedro,18446-002,Itaberá,SP
+Rua Vinte e Cinco de Abril,Jardim São Pedro,18446-012,Itaberá,SP
+Rua 1,Morada do Sol,18448-094,Itaberá,SP
+Rua 2,Morada do Sol,18448-092,Itaberá,SP
+Rua 3,Morada do Sol,18448-090,Itaberá,SP
+Rua Anna da Veiga e Souza Gomes,Residencial Canadá,18443-130,Itaberá,SP
+Rua das Margaridas,Residencial Canadá,18443-121,Itaberá,SP
+Rua Joana Francisca Simon Sola,Residencial Canadá,18443-120,Itaberá,SP
+Rua João Batista Cerdeira,Residencial Canadá,18443-134,Itaberá,SP
+Rua José Barbosa Tristão,Residencial Canadá,18443-132,Itaberá,SP
+Rua José Cilico Gonçalves,Residencial Canadá,18443-124,Itaberá,SP
+Rua Lázaro dos Santos,Residencial Canadá,18443-136,Itaberá,SP
+Rua Paulinho Lobo de Freitas,Residencial Canadá,18443-128,Itaberá,SP
+Rua São Judas Tadeu,Residencial Canadá,18443-126,Itaberá,SP
 Rua 1,Social,18446-310,Itaberá,SP
-Rua 2,Social,18446-312,Itaberá,SP
-Rua 3,Social,18446-314,Itaberá,SP
-Rua 4,Social,18446-316,Itaberá,SP
-Rua 5,Social,18446-318,Itaberá,SP
-Rua 6,Social,18446-320,Itaberá,SP
-Rua 7,Social,18446-322,Itaberá,SP
-Rua 8,Social,18446-324,Itaberá,SP
-Rua 9,Social,18446-326,Itaberá,SP
 Rua 10,Social,18446-328,Itaberá,SP
 Rua 11,Social,18446-330,Itaberá,SP
 Rua 12,Social,18446-332,Itaberá,SP
@@ -216,82 +222,76 @@ Rua 16,Social,18446-342,Itaberá,SP
 Rua 17,Social,18446-344,Itaberá,SP
 Rua 18,Social,18446-346,Itaberá,SP
 Rua 19,Social,18446-348,Itaberá,SP
+Rua 2,Social,18446-312,Itaberá,SP
 Rua 20,Social,18446-349,Itaberá,SP
-Rua 1,Capim,18446-350,Itaberá,SP
-Rua 2,Capim,18446-352,Itaberá,SP
-Rua 3,Capim,18446-354,Itaberá,SP
-Rua 4,Capim,18446-356,Itaberá,SP
-Rua 13 de Maio,Jardim Lúcia,18448-000,Itaberá,SP
-Rua Tiradentes,Jardim Lúcia,18448-002,Itaberá,SP
-Rua São Pedro,Jardim Lúcia,18448-004,Itaberá,SP
-Rua Antônio Joaquim Diniz,Jardim Lúcia,18448-006,Itaberá,SP
-Rua Josias Cardoso,Jardim Lúcia,18448-008,Itaberá,SP
-Rua Francisco Antônio da Silva,Jardim Lúcia,18448-010,Itaberá,SP
-Rua Francisco Antônio da Silva,Vila Dom Sílvio,18448-020,Itaberá,SP
-Rua Ranulfo Batista Prestes,Vila Dom Sílvio,18448-022,Itaberá,SP
-Rua Tiradentes,Vila Dom Sílvio,18448-024,Itaberá,SP
-Rua Itararé,Vila Dom Sílvio,18448-026,Itaberá,SP
-Rua Itapeva,Vila Dom Sílvio,18448-028,Itaberá,SP
-Rua Antônio Joaquim Diniz,Vila Dom Sílvio,18448-030,Itaberá,SP
-Rua Olímpio Souza,Vila Dom Sílvio,18448-032,Itaberá,SP
-Rua Antônio Isaac,Vila Dom Sílvio,18448-034,Itaberá,SP
-Rua Leopoldo Silva,Vila Dom Sílvio,18448-036,Itaberá,SP
+Rua 3,Social,18446-314,Itaberá,SP
+Rua 4,Social,18446-316,Itaberá,SP
+Rua 5,Social,18446-318,Itaberá,SP
+Rua 6,Social,18446-320,Itaberá,SP
+Rua 7,Social,18446-322,Itaberá,SP
+Rua 8,Social,18446-324,Itaberá,SP
+Rua 9,Social,18446-326,Itaberá,SP
+Rua Afonso Sardinha,Vila Bandeirantes,18440-066,Itaberá,SP
+Rua Alexandre Gusmão,Vila Bandeirantes,18440-068,Itaberá,SP
+Rua Anhanguera,Vila Bandeirantes,18440-078,Itaberá,SP
+Rua Borba Gato,Vila Bandeirantes,18440-080,Itaberá,SP
+Rua Bras Cubas,Vila Bandeirantes,18440-064,Itaberá,SP
+Rua Conde Sarzedas,Vila Bandeirantes,18440-062,Itaberá,SP
+Rua Domingos Jorge Velho,Vila Bandeirantes,18440-060,Itaberá,SP
+Rua Duarte Coelho,Vila Bandeirantes,18440-072,Itaberá,SP
+Rua Fernão Dias Paes Lemes,Vila Bandeirantes,18440-074,Itaberá,SP
+Rua João Ramalho,Vila Bandeirantes,18440-070,Itaberá,SP
+Rua Raposo Tavares,Vila Bandeirantes,18440-076,Itaberá,SP
+Rua Antônia Camargo Duarte,Vila Cruzeiro,18440-188,Itaberá,SP
+Rua Coronel José Pedro de Lima,Vila Cruzeiro,18440-186,Itaberá,SP
+Rua Cruzeiro,Vila Cruzeiro,18440-172,Itaberá,SP
+Rua Gabriel Gomes,Vila Cruzeiro,18440-178,Itaberá,SP
+Rua José Gonçalves de Macedo,Vila Cruzeiro,18440-182,Itaberá,SP
+Rua Nhá Quima,Vila Cruzeiro,18440-184,Itaberá,SP
+Rua Padre Miguel Piller,Vila Cruzeiro,18440-170,Itaberá,SP
+Rua Professora Tereza Pignagrande Oliveira,Vila Cruzeiro,18440-176,Itaberá,SP
+Rua Santo Antônio,Vila Cruzeiro,18440-174,Itaberá,SP
+Rua São Joaquim,Vila Cruzeiro,18440-180,Itaberá,SP
+Rua Adolfo Bueno Pimentel,Vila Dom Sílvio,18448-078,Itaberá,SP
 Rua Amador Veiga,Vila Dom Sílvio,18448-038,Itaberá,SP
-Rua Dom Pedro I,Vila Dom Sílvio,18448-040,Itaberá,SP
-Rua Francisco Alves Negrão,Vila Dom Sílvio,18448-042,Itaberá,SP
-Rua Princesa Isabel,Vila Dom Sílvio,18448-044,Itaberá,SP
+Rua Amantino Frutuoso,Vila Dom Sílvio,18448-068,Itaberá,SP
 Rua Antônio Clemente Leite,Vila Dom Sílvio,18448-046,Itaberá,SP
-Rua Santa Catarina,Vila Dom Sílvio,18448-048,Itaberá,SP
-Rua Santana,Vila Dom Sílvio,18448-050,Itaberá,SP
+Rua Antônio Isaac,Vila Dom Sílvio,18448-034,Itaberá,SP
+Rua Antônio Joaquim Diniz,Vila Dom Sílvio,18448-030,Itaberá,SP
+Rua Coronel Macedo,Vila Dom Sílvio,18448-066,Itaberá,SP
+Rua Dom Pedro I,Vila Dom Sílvio,18448-040,Itaberá,SP
+Rua Durval de Oliveira Santos,Vila Dom Sílvio,18448-072,Itaberá,SP
+Rua Elizeu Virgílio de Jesus,Vila Dom Sílvio,18448-080,Itaberá,SP
+Rua Eurico Gabriel dos Santos,Vila Dom Sílvio,18448-058,Itaberá,SP
+Rua Francisco Alves Negrão,Vila Dom Sílvio,18448-042,Itaberá,SP
+Rua Francisco Antônio da Silva,Vila Dom Sílvio,18448-020,Itaberá,SP
+Rua Gregório dos Santos,Vila Dom Sílvio,18448-084,Itaberá,SP
+Rua Isabel Ramos Fernandes,Vila Dom Sílvio,18448-070,Itaberá,SP
+Rua Itapeva,Vila Dom Sílvio,18448-028,Itaberá,SP
+Rua Itararé,Vila Dom Sílvio,18448-026,Itaberá,SP
+Rua João Correia Carneiro,Vila Dom Sílvio,18448-056,Itaberá,SP
+Rua João Domingues Do Santos,Vila Dom Sílvio,18448-086,Itaberá,SP
+Rua Joaquim Pedroso De Oliveira,Vila Dom Sílvio,18448-074,Itaberá,SP
+Rua José Antunes,Vila Dom Sílvio,18448-064,Itaberá,SP
 Rua José Merendes,Vila Dom Sílvio,18448-052,Itaberá,SP
 Rua Júlio Pacheco,Vila Dom Sílvio,18448-054,Itaberá,SP
-Rua João Correia Carneiro,Vila Dom Sílvio,18448-056,Itaberá,SP
-Rua Eurico Gabriel dos Santos,Vila Dom Sílvio,18448-058,Itaberá,SP
 Rua Juvenal Rodrigues Martins,Vila Dom Sílvio,18448-060,Itaberá,SP
-Rua José Antunes,Vila Dom Sílvio,18448-064,Itaberá,SP
-Rua Coronel Macedo,Vila Dom Sílvio,18448-066,Itaberá,SP
-Rua Amantino Frutuoso,Vila Dom Sílvio,18448-068,Itaberá,SP
-Rua Isabel Ramos Fernandes,Vila Dom Sílvio,18448-070,Itaberá,SP
-Rua Durval de Oliveira Santos,Vila Dom Sílvio,18448-072,Itaberá,SP
-Rua Joaquim Pedroso De Oliveira,Vila Dom Sílvio,18448-074,Itaberá,SP
-Rua Paulo César de Oliveira,Vila Dom Sílvio,18448-076,Itaberá,SP
-Rua Adolfo Bueno Pimentel,Vila Dom Sílvio,18448-078,Itaberá,SP
-Rua Elizeu Virgílio de Jesus,Vila Dom Sílvio,18448-080,Itaberá,SP
+Rua Leopoldo Silva,Vila Dom Sílvio,18448-036,Itaberá,SP
 Rua Luiza Moreira Coelho,Vila Dom Sílvio,18448-082,Itaberá,SP
-Rua Gregório dos Santos,Vila Dom Sílvio,18448-084,Itaberá,SP
-Rua João Domingues Do Santos,Vila Dom Sílvio,18448-086,Itaberá,SP
+Rua Olímpio Souza,Vila Dom Sílvio,18448-032,Itaberá,SP
+Rua Paulo César de Oliveira,Vila Dom Sílvio,18448-076,Itaberá,SP
+Rua Princesa Isabel,Vila Dom Sílvio,18448-044,Itaberá,SP
+Rua Ranulfo Batista Prestes,Vila Dom Sílvio,18448-022,Itaberá,SP
+Rua Santa Catarina,Vila Dom Sílvio,18448-048,Itaberá,SP
+Rua Santana,Vila Dom Sílvio,18448-050,Itaberá,SP
 Rua Sebastião Rosa,Vila Dom Sílvio,18448-088,Itaberá,SP
-Rua 3,Morada do Sol,18448-090,Itaberá,SP
-Rua 2,Morada do Sol,18448-092,Itaberá,SP
-Rua 1,Morada do Sol,18448-094,Itaberá,SP
-Área Rural,Área Rural de Itaberá,18449-899,Itaberá,SP
-Rua Francisca Saturnina de Oliveira,Centro (Turiba do Sul),18450-001,Itaberá,SP
-Rua Azaleia,Centro (Turiba do Sul),18450-002,Itaberá,SP
-Viela Camélia,Centro (Turiba do Sul),18450-004,Itaberá,SP
-Rua Bras da Silva Maia,Centro (Turiba do Sul),18450-006,Itaberá,SP
-Viela Lírio,Centro (Turiba do Sul),18450-008,Itaberá,SP
-Rua Maria Antonieta de Oliveira,Centro (Turiba do Sul),18450-010,Itaberá,SP
-Rua Joaquim Gomes de Oliveira Bueno,Centro (Turiba do Sul),18450-012,Itaberá,SP
-Rua Amaro Freitas de Oliveira,Centro (Turiba do Sul),18450-014,Itaberá,SP
-Rua José Procópio de Oliveira,Centro (Turiba do Sul),18450-016,Itaberá,SP
-Rua João Batista Gonçalves,Centro (Turiba do Sul),18450-018,Itaberá,SP
-Rua João Evergisto de Almeida,Centro (Turiba do Sul),18450-020,Itaberá,SP
-Rua Pedro dos Santos Lisboa,Centro (Turiba do Sul),18450-022,Itaberá,SP
-Viela Hortênsia,Centro (Turiba do Sul),18450-024,Itaberá,SP
-Rua Antonio Augusto de Macedo,Centro (Turiba do Sul),18450-026,Itaberá,SP
-Rua Francisco Chaves Louro,Centro (Turiba do Sul),18450-028,Itaberá,SP
-Rua Paulino Rodrigues de Oliveira,Centro (Turiba do Sul),18450-030,Itaberá,SP
-Rua Maximiano José Da Silva,Centro (Turiba do Sul),18450-032,Itaberá,SP
-Rua Hélio Gomes de Oliveira,Centro (Turiba do Sul),18450-034,Itaberá,SP
-Rua João Batista Lima,Centro (Turiba do Sul),18450-036,Itaberá,SP
-Área Rural,Área Rural de Turiba do Sul,18450-899,Itaberá,SP
-Rua João Maria Ferraz,Centro (Engenheiro Maia),18455-000,Itaberá,SP
-Avenida Engenheiro Maia,Centro (Engenheiro Maia),18455-002,Itaberá,SP
-Rua dos Ferreiras,Centro (Engenheiro Maia),18455-004,Itaberá,SP
-Rua Antônio Castilho Mural,Centro (Engenheiro Maia),18455-008,Itaberá,SP
-Rua Antonio Gera,Centro (Engenheiro Maia),18455-010,Itaberá,SP
-Rua João Batista Siqueira Filho,Centro (Engenheiro Maia),18455-012,Itaberá,SP
-Rua Jorge Rodrigues,Centro (Engenheiro Maia),18455-013,Itaberá,SP
-Rua Leôncio Pereira Dos Santos,Centro (Engenheiro Maia),18455-014,Itaberá,SP
-Rua Zeferino Ferreira,Centro (Engenheiro Maia),18455-016,Itaberá,SP
-Área Rural,Área Rural de Engenheiro Maia,18455-899,Itaberá,SP
+Rua Tiradentes,Vila Dom Sílvio,18448-024,Itaberá,SP
+Avenida Silvério Morato de Almeida,Vila Esperança,18440-150,Itaberá,SP
+Rua Agenor Gomes,Vila Esperança,18440-168,Itaberá,SP
+Rua Cruzeiro,Vila Esperança,18440-154,Itaberá,SP
+Rua Olavo Bilac,Vila Esperança,18440-156,Itaberá,SP
+Rua Padre Bento Dias Pacheco,Vila Esperança,18440-152,Itaberá,SP
+Rua Padre Miguel Piller,Vila Esperança,18440-164,Itaberá,SP
+Rua Waldemar Felipe,Vila Esperança,18440-166,Itaberá,SP
+Travessa Bento Manoel do Prado,Vila Esperança,18440-162,Itaberá,SP
+Rua Chico Menino,Vila Santa Maria,18440-210,Itaberá,SP
