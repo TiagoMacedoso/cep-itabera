@@ -46,7 +46,7 @@ section:nth-child(2) div{
     margin: 1.5em 0em;
 }
 
-select, button{
+select/* , button */{
     background-color: rgba(6, 36, 0, 0.8);
     padding: 0.3em 0.5em;
     text-align: center;
@@ -64,11 +64,11 @@ select:focus{
     outline: none;
 }
 
-button{
+/* button{
     width: 20%;
     padding: 0.5em 1.5em;
     background-color: rgba(24, 131, 3, 0.438);
-}
+} */
 
 p{
     width: 80%;
@@ -106,7 +106,7 @@ section:nth-child(3) a img{
         font-size: xx-large;
     }
 
-    select, button{
+    select/* , button */{
         font-size: x-large;
     }
 

@@ -16,11 +16,11 @@ document.addEventListener('DOMContentLoaded', function() {
                     const data = results.data;
                     const bairroSelect = document.getElementById('bairro');
                     const logradouroSelect = document.getElementById('logradouro');
+                    const resultado = document.getElementById('resultado');
+                    const cep_resultado = document.getElementById('cep_resultado');
 
-                    // Obtenha a lista única de bairros
                     const bairros = [...new Set(data.map(endereco => endereco.Bairro).filter(Boolean))];
 
-                    // Preencha o select de bairros
                     bairros.forEach(bairro => {
                         const option = document.createElement('option');
                         option.value = bairro;
@@ -28,10 +28,11 @@ document.addEventListener('DOMContentLoaded', function() {
                         bairroSelect.appendChild(option);
                     });
 
-                    // Evento para filtrar logradouros com base no bairro selecionado
                     bairroSelect.addEventListener('change', function() {
                         const bairroSelecionado = bairroSelect.value;
-                        // Limpe o select de logradouros
+                        
+                        resultado.textContent = ``;
+                        cep_resultado.textContent = ``;
 
                         if (bairroSelecionado == '') {
                             logradouroSelect.innerHTML = '<option value="">Selecione primeiramente um bairro</option>';
@@ -39,11 +40,8 @@ document.addEventListener('DOMContentLoaded', function() {
                             logradouroSelect.innerHTML = '<option value="">Selecione um logradouro</option>';
                         }
                         
-
-                        // Filtre logradouros com base no bairro selecionado
                         const logradourosFiltrados = data.filter(endereco => endereco.Bairro === bairroSelecionado);
 
-                        // Preencha o select de logradouros
                         logradourosFiltrados.forEach(endereco => {
                             if (endereco.Logradouro) {
                                 const option = document.createElement('option');
@@ -54,12 +52,23 @@ document.addEventListener('DOMContentLoaded', function() {
                         });
                     });
 
+                    logradouroSelect.addEventListener('change', function() {
+                        resultado.textContent = ``;
+                        cep_resultado.textContent = ``;
+
+                        if (bairroSelect.value && logradouroSelect.value) {
+                            procurar_cep()
+                        }
+                    });
+
                     document.getElementById('buscar').addEventListener('click', function() {
+                        procurar_cep()
+                    });
+
+                    function procurar_cep() {
                         const logradouroPesquisado = logradouroSelect.value;
                         const enderecoEncontrado = data.find(endereco => endereco.Logradouro === logradouroPesquisado);
 
-                        const resultado = document.getElementById('resultado');
-                        const cep_resultado = document.getElementById('cep_resultado');
                         if (enderecoEncontrado) {
                             resultado.textContent = `O CEP para o logradouro "${logradouroPesquisado}" é:`;
                             cep_resultado.textContent = ` ${enderecoEncontrado.CEP}`;
@@ -67,7 +76,7 @@ document.addEventListener('DOMContentLoaded', function() {
                             resultado.textContent = 'Logradouro não encontrado';
                             cep_resultado.textContent = '';
                         }
-                    });
+                    }
                 },
                 error: function(error) {
                     console.error('Error parsing CSV:', error);
